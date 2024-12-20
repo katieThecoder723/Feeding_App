@@ -1,0 +1,15 @@
+Goal
+Sometimes people feed their pets late so I want to make an app that has an alarm that rings at a set time.
+
+Challenges
+
+-how will they be reminded (ex. noise from the computer, text, email)
+-will we send it to the phone or computer, etc.
+-how to keep track of time
+-what time should the user be reminded
+
+Solutions
+
+- use time library
+- send notifications to phone with pushover
+	-says "FEED LOUIE NOW...OR ELSE"
